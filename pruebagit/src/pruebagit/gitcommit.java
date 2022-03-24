@@ -6,5 +6,7 @@ public class gitcommit {
 	
 	/*
 	 * segundo comentario
+	 * 
+	 * esto ha sido editado
 	 */
 }
