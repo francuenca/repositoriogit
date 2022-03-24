@@ -6,8 +6,6 @@ public class pruebas {
 	
 	/*
 	 * como estamos
-	 * 
-	 * yo soy gigantte
 	 */
 
 }
